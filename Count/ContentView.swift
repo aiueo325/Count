@@ -15,7 +15,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("\(result)")
-                .frame(width: 300, height: 100)
+                .frame(width: 300, height: 90)
                 .font(.system(size: 32))
             Text("\(count)")
                 .frame(width: 300, height: 100)
